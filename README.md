@@ -25,13 +25,13 @@ Bạn hoàn toàn có thể đóng góp vào chất lượng của những nội
 
 ## Xuất bản
 
-These books are being released here as drafts, free to read, but are also being edited, produced, and published through O'Reilly.
+Các cuốn sách được đặt ở đây là các bản thảo, các bạn có thể đọc miễn phí; đồng thời, chúng cũng được chỉnh sửa, soạn thảo và xuất bản qua nhà xuất bản O'Reilly.
 
-If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
+Nếu bạn thích nội dung của những cuốn sách ở đây, và muốn có thêm các nội dung như thế này nữa, xin vui lòng mua sách để ủng hộ khi sách được xuất bản và sẵn sàng được bán, thông qua các kênh bán sách thông thường. :)
 
-If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [patreon](https://www.patreon.com/getify) that I would always appreciate your generosity towards.
+Nếu bạn không muốn mua sách, mà muốn đóng góp trực tiếp cho công sức viết lách của tôi (hoặc cho bất kì phần mềm nguồn mở nào của tôi), thì tôi (Kyle Simpson) cũng có một tài khoản [patreon](https://www.patreon.com/getify) và sẽ rất biết ơn hành động hào phóng của bạn.
 
-<a href="https://www.patreon.com/getify"><img src="http://blog.getify.com/wp-content/uploads/patreon.png"></a>
+<a href="https://www.patreon.com/getify"><img src="https://camo.githubusercontent.com/3d9b27bdf72d7e5407fbad6f9240f6cadc98a7a5/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67"></a>
 
 ## In-person Training
 
