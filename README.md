@@ -11,11 +11,11 @@
 
 Bạn hoàn toàn có thể đóng góp vào chất lượng của những nội dung ở đây bằng cách tạo các Pull Request để cải thiện các đoạn code, những chỗ diễn giải, v.v... Nếu bạn tìm thấy và sửa được các lỗi chính tả thì cũng tốt, tuy nhiên việc này không quan trọng lắm ở đây.
 
-**Để biết thêm về động lực và hoàn cảnh đằng sau việc viết bộ sách này, bạn có thể xem tại [Lời giới thiệu](preface.md) **
+** Để biết thêm về động lực và hoàn cảnh đằng sau việc viết bộ sách này, bạn có thể xem tại [Lời giới thiệu](preface.md) **
 
 ## Các tập sách
 
-* Đọc online (miễn phí!): ["Up & Going"](up & going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://shop.oreilly.com/product/0636920039303.do) in print, but the ebook format is free!
+* Đọc online (miễn phí!): ["Up & Going"](up & going/README.md#you-dont-know-js-up--going), Đã xuất bản: [Mua bản cứng tại đây](http://shop.oreilly.com/product/0636920039303.do), tuy nhiên, có ebook miễn phí!
 * Read online (free!): ["Scope & Closures"](scope & closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://shop.oreilly.com/product/0636920026327.do)
 * Read online (free!): ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://shop.oreilly.com/product/0636920033738.do)
 * Read online (free!): ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://shop.oreilly.com/product/0636920033745.do)
