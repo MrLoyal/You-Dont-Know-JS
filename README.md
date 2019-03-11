@@ -1,6 +1,6 @@
-# You Don't Know JS (book series)
+# Bộ sách: Bạn đếch biết JS
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
+Đây là bộ sách nói sâu về bản chất cốt lõi của ngôn ngữ lập trình JavaScript. Hiện giờ, phiên bản đầu tiên của bộ sách đã được hoàn thiện.
 
 <a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
