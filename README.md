@@ -18,12 +18,12 @@ Bạn hoàn toàn có thể đóng góp vào chất lượng của những nội
 
 * Đọc online (miễn phí!): ["Lên & Chạy"](up%20%26%20going/README.md#you-dont-know-js-up--going), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920039303.do), tuy nhiên, có ebook miễn phí!
 * Đọc online (miễn phí!): ["Phạm vi & Closures"](scope%20%26%20closures/README.md#you-dont-know-js-scope--closures), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920026327.do)
-* Đọc online (miễn phí!): ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033738.do)
-* Đọc online (miễn phí!): ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033745.do)
-* Đọc online (miễn phí!): ["Async & Performance"](async & performance/README.md#you-dont-know-js-async--performance), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033752.do)
-* Đọc online (miễn phí!): ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033769.do)
+* Đọc online (miễn phí!): ["this & Prototypes của đối tượng"](this%20%26%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033738.do)
+* Đọc online (miễn phí!): ["Kiểu dữ liệu & Ngữ pháp"](types%20%26%20grammar/README.md#you-dont-know-js-types--grammar), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033745.do)
+* Đọc online (miễn phí!): ["Bất đồng bộ & Hiệu năng"](async%20%26%20performance/README.md#you-dont-know-js-async--performance), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033752.do)
+* Đọc online (miễn phí!): ["ES6 & Hơn nữa"](es6%20%26%20beyond/README.md#you-dont-know-js-es6--beyond), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033769.do)
 
-## Publishing
+## Xuất bản
 
 These books are being released here as drafts, free to read, but are also being edited, produced, and published through O'Reilly.
 
