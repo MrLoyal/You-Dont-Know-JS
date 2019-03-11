@@ -51,7 +51,7 @@ Khoá học đó cũng có trên [Pluralsight](http://www.pluralsight.com/course
 
 Tôi tất nhiên **rất trân trọng** bất kỳ sự đóng góp nào của bạn vào những nội dung ở đây.
 
-Tuy nhiên, nếu bạn quyết định đóng góp (không chỉ việc sửa lỗi chính tả), thì bạn phải đồng ý rằng bạn trao cho tôi quyền không giới hạn về việc sử dụng các đóng góp đó trong bộ sách mà tôi và O'Reilly sở hữu. Chắc bạn cũng hoàn toàn tự hiểu được điều này trước khi tôi nói ra điều này, nhưng tôi cũng phải làm hài lòng các luật sư bằng cách nói rõ ra như vậy.
+Tuy nhiên, nếu bạn quyết định đóng góp (không chỉ việc sửa lỗi chính tả), thì bạn phải đồng ý rằng bạn trao cho tôi quyền không giới hạn về việc sử dụng các đóng góp đó trong bộ sách mà tôi và O'Reilly sở hữu. Chắc bạn cũng hoàn toàn tự hiểu được điều này mà không cần tôi nói ra, nhưng tôi cũng phải làm hài lòng các luật sư bằng cách nói rõ ra như vậy.
 
 Thế nên: blah, blah, blah... :)
 
@@ -61,5 +61,4 @@ Tất cả các tài liệu ở đây đều có tác quyền thuộc Kyle Simps
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
 <br />
-Nọi  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />Nội dung này được cung cấp theo bản quyền <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
