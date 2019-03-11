@@ -29,20 +29,21 @@ Các cuốn sách được đặt ở đây là các bản thảo, các bạn c�
 
 Nếu bạn thích nội dung của những cuốn sách ở đây, và muốn có thêm các nội dung như thế này nữa, xin vui lòng mua sách để ủng hộ khi sách được xuất bản và sẵn sàng được bán, thông qua các kênh bán sách thông thường. :)
 
-Nếu bạn không muốn mua sách, mà muốn đóng góp trực tiếp cho công sức viết lách của tôi (hoặc cho bất kì phần mềm nguồn mở nào của tôi), thì tôi (Kyle Simpson) cũng có một tài khoản [patreon](https://www.patreon.com/getify) và sẽ rất biết ơn hành động hào phóng của bạn.
+Nếu bạn không muốn mua sách, mà muốn đóng góp trực tiếp cho công sức viết lách của tôi (hoặc cho bất kì phần mềm nguồn mở nào của tôi), thì tôi (Kyle Simpson) cũng có một tài khoản [patreon](https://www.patreon.com/getify) và tôi sẽ rất biết ơn hành động hào phóng của bạn.
 
 <a href="https://www.patreon.com/getify"><img src="https://camo.githubusercontent.com/3d9b27bdf72d7e5407fbad6f9240f6cadc98a7a5/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67"></a>
 
-## In-person Training
+## Đào tạo cá nhân
 
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format), called "Advanced JS: The 'What You Need To Know' Parts".
+Nội dung của những cuốn sách ở đây chủ yếu được hình thành từ các tài liệu đào tạo mà tôi giảng dạy một cách chuyên nghiệp (cả công khai và cả các khoá học riêng dành cho các tổ chức), tài liệu đó được gọi là "JS cao cấp: Những điều bạn cần phải biết".
 
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through any of these channels listed here:
+Nếu bạn thích các nội dung ở đây và muốn liên hệ với tôi để được hướng dẫn về những nội dung đó, hoặc bất kỳ chủ đề nào liên quan đến JS/HTML5/node.js, vui lòng liên hệ với tôi qua một trong các kênh dưới đây:
 
 [http://getify.me](http://getify.me)
 
-## Online Video Training
+## Đào tạo qua video trực tuyến
 
+Tôi cũng có một số tài liệu đào tạo JS theo nhu cầu. Tôi dạy các khoá học ở [Frontend Masters](https://FrontendMasters.com), ví dụ như khoá [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/). (Sắp có thêm các khoá học mới nữa!)
 I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
 
 That same course is also [available through Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
