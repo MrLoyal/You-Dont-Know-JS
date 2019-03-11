@@ -44,20 +44,22 @@ Nếu bạn thích các nội dung ở đây và muốn liên hệ với tôi đ
 ## Đào tạo qua video trực tuyến
 
 Tôi cũng có một số tài liệu đào tạo JS theo nhu cầu. Tôi dạy các khoá học ở [Frontend Masters](https://FrontendMasters.com), ví dụ như khoá [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/). (Sắp có thêm các khoá học mới nữa!)
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
 
-That same course is also [available through Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
+Khoá học đó cũng có trên [Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
 
-## Content Contributions
+## Đóng góp nội dung
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+Tôi tất nhiên **rất trân trọng** bất kỳ sự đóng góp nào của bạn vào những nội dung ở đây.
 
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it.
+Tuy nhiên, nếu bạn quyết định đóng góp (không chỉ việc sửa lỗi chính tả), thì bạn phải đồng ý rằng bạn trao cho tôi quyền không giới hạn về việc sử dụng các đóng góp đó trong bộ sách mà tôi và O'Reilly sở hữu. Chắc bạn cũng hoàn toàn tự hiểu được điều này trước khi tôi nói ra điều này, nhưng tôi cũng phải làm hài lòng các luật sư bằng cách nói rõ ra như vậy.
 
-So: blah, blah, blah... :)
+Thế nên: blah, blah, blah... :)
 
-## License & Copyright
+## Quyền sử dụng và tác quyền
 
-The materials herein are all (c) 2013-2015 Kyle Simpson.
+Tất cả các tài liệu ở đây đều có tác quyền thuộc Kyle Simpson (c) 2013-2015.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
+<br />
+Nọi  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />Nội dung này được cung cấp theo bản quyền <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
