@@ -7,7 +7,10 @@ Từ những ngày đầu của web, JavaScript đã là công nghệ nền tả
 
 Nhưng là một ngôn ngữ, nó luôn luôn là một mục tiêu cho rất nhiều sự chỉ trích, một phần là do sự kế thừa, nhưng nguyên nhân lớn hơn nằm ở triết lý thiết kế của nó. Như Brendan Eich cũng đã từng nói, ngay cả cái tên cũng gợi lên "một thằng em ngốc" khi đặt cạnh người anh Java già dặn và trưởng thành hơn. Nhưng cái tên chỉ là một tai nạn trong lĩnh vực chính trị và marketing. Hai ngôn ngữ lập trình này hầu hết khác hẳn nhau trong rất nhiều khía cạnh. JavaScript và Java có mối liên hệ với nhau giống như "Nhật" và "Nhật Tân" vậy.
 
-Because JavaScript borrows concepts and syntax idioms from several languages, including proud C-style procedural roots as well as subtle, less obvious Scheme/Lisp-style functional roots, it is exceedingly approachable to a broad audience of developers, even those with just little to no programming experience. The "Hello World" of JavaScript is so simple that the language is inviting and easy to get comfortable with in early exposure.
+Bởi vì JavaScript có vay mượn ý tưởng và cú pháp từ các ngôn ngữ khác, bao gồm có thủ tục của ngôn ngữ C đầy tự hào, hay kiểu hàm đầy tinh tế của Scheme/Lisp. Nó cực kỳ dễ tiếp cận cho phần lớn các nhà phát triển, kể cả với những người có rất ít hoặc chưa hề có kinh nghiệm. Chương trình "Hello world" của JavaScript quá dễ đến mức ngôn ngữ này trở nên rất hấp dẫn và dễ chịu khi vừa mới ló mặt.
+
+Dù JavaScript có lẽ là ngôn ngữ dễ nhất để bạn cài đặt môi trường và chạy thử 1 chương trình
+
 
 While JavaScript is perhaps one of the easiest languages to get up and running with, its eccentricities make solid mastery of the language a vastly less common occurrence than in many other languages. Where it takes a pretty in-depth knowledge of a language like C or C++ to write a full-scale program, full-scale production JavaScript can, and often does, barely scratch the surface of what the language can do.
 
