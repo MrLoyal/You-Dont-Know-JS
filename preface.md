@@ -11,9 +11,9 @@ Bởi vì JavaScript có vay mượn ý tưởng và cú pháp từ các ngôn n
 
 Dù JavaScript có lẽ là ngôn ngữ dễ nhất để bạn cài đặt môi trường và chạy thử 1 chương trình, nhưng chuyện thành thạo ngôn ngữ này lại là điều hiếm gặp hơn nhiều so với các ngôn ngữ khác. Nếu để viết được một chương trình hoàn thiện với C hay C++, bạn sẽ cần phải hiểu cặn kẽ về mọi thứ của ngôn ngữ lập trình đó. Đối với JavaScript, thường là người ta chẳng bao giờ vượt quá lớp bề mặt những điều mà ngôn ngữ này có thể thực hiện được.
 
-Sophisticated concepts which are deeply rooted into the language tend instead to surface themselves in *seemingly* simplistic ways, such as passing around functions as callbacks, which encourages the JavaScript developer to just use the language as-is and not worry too much about what's going on under the hood.
+Thay vì phô diễn sự phức tạp trong các khái niệm, ngôn ngữ này lại chỉ để lộ ra những thứ *có vẻ* rất đơn giản, ví dụ như chuyện bạn có thể truyền các functions vào làm callbacks một cách dễ dàng, điều này làm cho các lập trình viên có thể sử dụng nó một cách đơn giản, và hoàn toàn không cần phải để ý gì đến sự phức tạp của những thứ đang chạy phía dưới.
 
-It is simultaneously a simple, easy-to-use language that has broad appeal, and a complex and nuanced collection of language mechanics which without careful study will elude *true understanding* even for the most seasoned of JavaScript developers.
+Nó vừa là một ngôn ngữ đơn giản, dễ sử dụng, được ưa chuộng một cách rộng rãi, đồng thời cũng có rất nhiều cơ chế của nó mà nếu không nghiên cứu một cách cẩn thận bạn sẽ không thể *thực sự hiểu được* cho dù bạn có là một lập trình viên JavaScript lâu năm đi chăng nữa.
 
 Therein lies the paradox of JavaScript, the Achilles' Heel of the language, the challenge we are presently addressing. Because JavaScript *can* be used without understanding, the understanding of the language is often never attained.
 
