@@ -1,9 +1,9 @@
 # Bạn đếch biết JS 
 # Lời tựa
 
-I'm sure you noticed, but "JS" in the book series title is not an abbreviation for words used to curse about JavaScript, though cursing at the language's quirks is something we can probably all identify with!
+Chắc bạn đã nhận ra "JS" trong tựa đề của bộ sách này không phải là viết tắt của cụm từ mà người ta hay dùng để chửi rủa về JavaScript, mặc dù chửi rủa những điều kì quặc của ngôn ngữ là điều mà tất cả chúng ta có thể tìm thấy sự đồng cảm với nhau trong đó.
 
-From the earliest days of the web, JavaScript has been a foundational technology that drives interactive experience around the content we consume. While flickering mouse trails and annoying pop-up prompts may be where JavaScript started, nearly 2 decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world's most widely available software platform: the web.
+Từ những ngày đầu của web, JavaScript đã là công nghệ nền tảng trong việc tạo ra các trải nghiệm tương tác xung quanh những nội dung mà chúng ta tiêu thụ. Nếu ngày đầu, hiệu ứng lung linh theo sau con trỏ chuột, hay hiển thị hộp thoại để nhập thông tin là những ứng dụng khởi đầu của JavaScript, thì sau gần 2 thập kỷ, công nghệ và khả năng của JavaScript đã phát triển lên một tầm mới, chẳng còn nghi ngờ gì nữa, nó đã trở thành phần quan trọng trong phần lõi của nền tảng phần mềm phổ biến nhất thế giới: đó là web.
 
 But as a language, it has perpetually been a target for a great deal of criticism, owing partly to its heritage but even more to its design philosophy. Even the name evokes, as Brendan Eich once put it, "dumb kid brother" status next to its more mature older brother "Java". But the name is merely an accident of politics and marketing. The two languages are vastly different in many important ways. "JavaScript" is as related to "Java" as "Carnival" is to "Car".
 
