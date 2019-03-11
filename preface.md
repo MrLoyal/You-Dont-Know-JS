@@ -9,10 +9,7 @@ Nhưng là một ngôn ngữ, nó luôn luôn là một mục tiêu cho rất nh
 
 Bởi vì JavaScript có vay mượn ý tưởng và cú pháp từ các ngôn ngữ khác, bao gồm có thủ tục của ngôn ngữ C đầy tự hào, hay kiểu hàm đầy tinh tế của Scheme/Lisp. Nó cực kỳ dễ tiếp cận cho phần lớn các nhà phát triển, kể cả với những người có rất ít hoặc chưa hề có kinh nghiệm. Chương trình "Hello world" của JavaScript quá dễ đến mức ngôn ngữ này trở nên rất hấp dẫn và dễ chịu khi vừa mới ló mặt.
 
-Dù JavaScript có lẽ là ngôn ngữ dễ nhất để bạn cài đặt môi trường và chạy thử 1 chương trình
-
-
-While JavaScript is perhaps one of the easiest languages to get up and running with, its eccentricities make solid mastery of the language a vastly less common occurrence than in many other languages. Where it takes a pretty in-depth knowledge of a language like C or C++ to write a full-scale program, full-scale production JavaScript can, and often does, barely scratch the surface of what the language can do.
+Dù JavaScript có lẽ là ngôn ngữ dễ nhất để bạn cài đặt môi trường và chạy thử 1 chương trình, nhưng chuyện thành thạo ngôn ngữ này lại là điều hiếm gặp hơn nhiều so với các ngôn ngữ khác. Nếu để viết được một chương trình hoàn thiện với C hay C++, bạn sẽ cần phải hiểu cặn kẽ về mọi thứ của ngôn ngữ lập trình đó. Đối với JavaScript, thường là người ta chẳng bao giờ vượt quá lớp bề mặt những điều mà ngôn ngữ này có thể thực hiện được.
 
 Sophisticated concepts which are deeply rooted into the language tend instead to surface themselves in *seemingly* simplistic ways, such as passing around functions as callbacks, which encourages the JavaScript developer to just use the language as-is and not worry too much about what's going on under the hood.
 
