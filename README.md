@@ -16,12 +16,12 @@ Bạn hoàn toàn có thể đóng góp vào chất lượng của những nội
 
 ## Các tập sách
 
-* Đọc online (miễn phí!): ["Up & Going"](up%20%26%20going/README.md#you-dont-know-js-up--going), Đã xuất bản: [Mua bản cứng tại đây](http://shop.oreilly.com/product/0636920039303.do), tuy nhiên, có ebook miễn phí!
-* Read online (free!): ["Scope & Closures"](scope & closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://shop.oreilly.com/product/0636920026327.do)
-* Read online (free!): ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://shop.oreilly.com/product/0636920033738.do)
-* Read online (free!): ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://shop.oreilly.com/product/0636920033745.do)
-* Read online (free!): ["Async & Performance"](async & performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://shop.oreilly.com/product/0636920033752.do)
-* Read online (free!): ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://shop.oreilly.com/product/0636920033769.do)
+* Đọc online (miễn phí!): ["Lên & Chạy"](up%20%26%20going/README.md#you-dont-know-js-up--going), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920039303.do), tuy nhiên, có ebook miễn phí!
+* Đọc online (miễn phí!): ["Phạm vi & Closures"](scope%20%26%20closures/README.md#you-dont-know-js-scope--closures), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920026327.do)
+* Đọc online (miễn phí!): ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033738.do)
+* Đọc online (miễn phí!): ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033745.do)
+* Đọc online (miễn phí!): ["Async & Performance"](async & performance/README.md#you-dont-know-js-async--performance), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033752.do)
+* Đọc online (miễn phí!): ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond), Đã xuất bản: [Mua bản cứng (tiếng Anh) tại đây](http://shop.oreilly.com/product/0636920033769.do)
 
 ## Publishing
 
