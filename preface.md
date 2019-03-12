@@ -15,9 +15,10 @@ Thay vì phô diễn sự phức tạp trong các khái niệm, ngôn ngữ này
 
 Nó vừa là một ngôn ngữ đơn giản, dễ sử dụng, được ưa chuộng một cách rộng rãi, đồng thời cũng có rất nhiều cơ chế của nó mà nếu không nghiên cứu một cách cẩn thận bạn sẽ không thể *thực sự hiểu được* cho dù bạn có là một lập trình viên JavaScript lâu năm đi chăng nữa.
 
-Therein lies the paradox of JavaScript, the Achilles' Heel of the language, the challenge we are presently addressing. Because JavaScript *can* be used without understanding, the understanding of the language is often never attained.
+Bởi vì JavaScript *có thể* được sử dụng mà không cần hiểu cặn kẽ, nên việc hiểu cặn kẽ về ngôn ngữ này thường bị bỏ qua.
 
-## Mission
+## Sứ mệnh
+
 
 If at every point that you encounter a surprise or frustration in JavaScript, your response is to add it to the blacklist, as some are accustomed to doing, you soon will be relegated to a hollow shell of the richness of JavaScript.
 
