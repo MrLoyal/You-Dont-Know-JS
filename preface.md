@@ -27,13 +27,11 @@ Bộ sách "Bạn đếch biết JavaScript" sẽ cho bạn một thử thách n
 
 Ở đây, chúng ta đề cập đến một xu hướng của các lập trình viên JS chỉ học vừa đủ để làm cho xong việc, mà không bao giờ tự bắt mình phải học hiểu chính xác tại sao và làm thế nào mà JS lại chạy như vậy. Xa hơn nữa, chúng ta tránh bỏ những lời khuyên thường gặp để học cách phản ứng lại khi con đường của chúng ta đi trở nên không dễ dàng.
 
-Tôi không hài lòng về việc dừng tay khi thấy thứ gì đó vừa *chạy được* mà không thực sự hiểu *tại sao*. Tôi nghĩ bạn cũng nên thế.
+Tôi không hài lòng về việc dừng tay khi thấy thứ gì đó vừa *chạy được* mà không thực sự hiểu *tại sao*. Tôi nghĩ bạn cũng nên thế. Tôi trân trọng được khích lệ bạn đặt chân mình vào "con đường ít người đi" và nắm vào tay mình tất cả kiến thức về những điều mà JavaScript có và có thể làm được. Với những kiến thức đó, sẽ không còn kỹ thuật nào, framework nào hay ám hiệu nào còn nằm ngoài sự hiểu biết của bạn.
 
-I am not content, nor should you be, at stopping once something *just works*, and not really knowing *why*. I gently challenge you to journey down that bumpy "road less traveled" and embrace all that JavaScript is and can do. With that knowledge, no technique, no framework, no popular buzzword acronym of the week, will be beyond your understanding.
+Mỗi cuốn sách trong bộ sách này được lấy từ những phần cốt lõi của ngôn ngữ JS nhưng lại thường bị hiểu sai hoặc hiểu thiếu, chúng ta sẽ đào sâu và đầy đủ vào những điều đó. Sau khi học xong, bạn sẽ có được một sự tự tin vững chắc về kiến thức của bản thân, không chỉ là lý thuyết mà còn cả từng bit của "những điều bạn cần biết".
 
-These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them. You should come away from reading with a firm confidence in your understanding, not just of the theoretical, but the practical "what you need to know" bits.
-
-The JavaScript you know *right now* is probably *parts* handed down to you by others who've been burned by incomplete understanding. *That* JavaScript is but a shadow of the true language. You don't *really* know JavaScript, *yet*, but if you dig into this series, you *will*. Read on, my friends. JavaScript awaits you.
+Những thứ về JavaScript mà bạn biết *cho đến lúc này* có lẽ chỉ là những điều do ai đó truyền lại, một người mà chính hiểu biết của họ cũng trong trạng thái không đầy đủ. Thứ JavaScript đó chỉ là cái bóng của cả một ngôn ngữ. Bạn vẫn chưa *thực sự* hiểu được nó, vẫn chưa đâu, nhưng khi bạn đọc vào bộ sách này, bạn sẽ hiểu được. Hãy đọc tiếp đi, bạn của tôi. JavaScript đang chờ đón bạn.
 
 ## Summary
 
