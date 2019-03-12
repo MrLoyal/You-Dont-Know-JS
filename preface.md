@@ -33,8 +33,8 @@ Mỗi cuốn sách trong bộ sách này được lấy từ những phần cố
 
 Những thứ về JavaScript mà bạn biết *cho đến lúc này* có lẽ chỉ là những điều do ai đó truyền lại, một người mà chính hiểu biết của họ cũng trong trạng thái không đầy đủ. Thứ JavaScript đó chỉ là cái bóng của cả một ngôn ngữ. Bạn vẫn chưa *thực sự* hiểu được nó, vẫn chưa đâu, nhưng khi bạn đọc vào bộ sách này, bạn sẽ hiểu được. Hãy đọc tiếp đi, bạn của tôi. JavaScript đang chờ đón bạn.
 
-## Summary
+## Lời kết
 
-JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even *sufficiently*). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and *should*, deeply *know*.
+JavaScript là một thứ tuyệt vời. Dễ dàng để học một phần, nhưng rất khó nhằn nếu muốn học trọn vẹn, hay thậm chí chỉ là học *cho đủ*. Khi gặp vấn đề, lập trình viên thường kêu ca về JS thay vì sự thiếu hiểu biết của chính mình. Những tập sách này mong muốn thay đổi điều đó và lan toả sự trân trọng cho một ngôn ngữ mà từ giờ bạn có thể hiểu và nên hiểu một cách sâu sắc.
 
-Note: Many of the examples in this book assume modern (and future-reaching) JavaScript engine environments, such as ES6. Some code may not work as described if run in older (pre-ES6) engines.
+Ghi chú: Nhiều ví dụ trong bộ sách này được viết với giả thiết là bạn đang sử dụng các JavaScript engine mới nhất (thậm chí là tương lai), ví dụ như ES6. Những đoạn code đó có thể không chạy được trong các phiên bản môi trường thực thi JS cũ hơn (trước ES6).
