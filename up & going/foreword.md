@@ -7,7 +7,10 @@ Gần đây nhất, có thứ gì mới mẻ mà bạn vừa học được?
 
 Bây giờ, bạn hãy quay lại thời điểm trước đó một chút, trước khi bạn học được kĩ năng mới đó. Cảm giác lúc đó thế nào? Có lẽ là một chút hăm doạ, một chút thất vọng phải không? Vào một thời điểm nào đó, tất cả chúng ta đều chưa biết thứ mà bây giờ chúng ta đã biết, và điều đó là hoàn toàn bình thường; chúng ta đều bắt đầu như thế. Học hỏi một điều mới là một chuyến phiêu lưu thú vị, nhất là khi bạn mong muốn học điều đó một cách hiệu quả.
 
-I teach a lot of beginner coding classes. The students who take my classes have often tried teaching themselves subjects like HTML or JavaScript by reading blog posts or copying and pasting code, but they haven’t been able to truly master the material that will allow them to code their desired outcome. And because they don’t truly grasp the ins and outs of certain coding topics, they can’t write powerful code or debug their own work, as they don’t really understand what is happening.
+Tôi đã từng dạy rất nhiều lớp cho người mới học lập trình. Các học viên của tôi thường tự học về các chủ đề như HTML và JavaScript bằng cách đọc các blogs, copy & paste các đoạn code, nhưng họ vẫn chưa thể thực sự làm chủ được thứ mà họ muốn học để có thể tạo ra các sản phẩm như ý. Và vì họ chưa thực sự nắm được kiến thức trong các chủ đề đó, họ không thể viết được code xịn hoặc tự debug code của mình, họ không thực sự hiểu điều gì đang xảy ra.
+
+  
+  
 
 I always believe in teaching my classes the proper way, meaning I teach web standards, semantic markup, well-commented code, and other best practices. I cover the subject in a thorough manner to explain the hows and whys, without just tossing out code to copy and paste. When you strive to comprehend your code, you create better work and become better at what you do. The code isn’t just your *job* anymore, it’s your *craft*. This is why I love *Up & Going*. Kyle takes us on a deep dive through syntax and terminology to give a great introduction to JavaScript without cutting corners. This book doesn’t skim over the surface, but really allows us to genuinely understand the concepts we will be writing.
 
