@@ -27,6 +27,8 @@ Bộ sách "Bạn đếch biết JavaScript" sẽ cho bạn một thử thách n
 
 Ở đây, chúng ta đề cập đến một xu hướng của các lập trình viên JS chỉ học vừa đủ để làm cho xong việc, mà không bao giờ tự bắt mình phải học hiểu chính xác tại sao và làm thế nào mà JS lại chạy như vậy. Xa hơn nữa, chúng ta tránh bỏ những lời khuyên thường gặp để học cách phản ứng lại khi con đường của chúng ta đi trở nên không dễ dàng.
 
+Tôi không hài lòng về việc dừng tay khi thấy thứ gì đó vừa *chạy được* mà không thực sự hiểu *tại sao*. Tôi nghĩ bạn cũng nên thế.
+
 I am not content, nor should you be, at stopping once something *just works*, and not really knowing *why*. I gently challenge you to journey down that bumpy "road less traveled" and embrace all that JavaScript is and can do. With that knowledge, no technique, no framework, no popular buzzword acronym of the week, will be beyond your understanding.
 
 These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them. You should come away from reading with a firm confidence in your understanding, not just of the theoretical, but the practical "what you need to know" bits.
