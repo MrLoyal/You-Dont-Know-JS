@@ -1,9 +1,9 @@
-# You Don't Know JS: Up & Going
-# Foreword
+# Bạn đếch biết JS: Lên và Quẩy
+# Lời mở đầu 
 
-What was the last new thing you learned?
+Gần đây nhất, có thứ gì mới mẻ mà bạn vừa học được?
 
-Perhaps it was a foreign language, like Italian or German. Or maybe it was a graphics editor, like Photoshop. Or a cooking technique or woodworking or an exercise routine. I want you to remember that feeling when you finally got it: the lightbulb moment. When things went from blurry to crystal clear, as you mastered the table saw or understood the difference between masculine and feminine nouns in French. How did it feel? Pretty amazing, right?
+Đó có lẽ là một ngoại ngữ, như tiếng Ý hay tiếng Đức. Hoặc đó có thể là một chương trình chỉnh sửa ảnh, như Photoshop. Hoặc một kỹ thuật nấu ăn hay làm đồ gỗ, hoặc một bài tập thể dục nào đó. Bạn hãy nhớ lại cảm giác của mình lúc đó, thời điểm chói lọi đó. Khi mọi thứ đi từ trạng thái mờ nhạt đến một sự rõ ràng, khi bạn làm chủ được cái bàn cưa hay khi bạn hiểu và phân biệt được giữa danh từ chỉ giống đực và danh từ chỉ giống cái trong tiếng Pháp. Bạn cảm thấy thế nào? Thật tuyệt diệu đúng không?
 
 Now I want you to travel back a little bit further in your memory to right before you learned your new skill. How did *that* feel? Probably slightly intimidating and maybe a little bit frustrating, right? At one point, we all did not know the things that we know now and that’s totally OK; we all start somewhere. Learning new material is an exciting adventure, especially if you are looking to learn the subject efficiently.
 
