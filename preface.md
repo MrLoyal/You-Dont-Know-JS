@@ -19,12 +19,11 @@ Bởi vì JavaScript *có thể* được sử dụng mà không cần hiểu c�
 
 ## Sứ mệnh
 
+Nếu mỗi lần bạn cảm thấy bất ngờ hoặc thất vọng về JavaScript, và bạn phản ứng lại bằng cách cho nó vào danh sách đen, giống như nhiều người vẫn thường làm vậy, thì tất cả những thứ mà bạn biết về JavaScript chỉ là một cái vỏ trống rỗng.
 
-If at every point that you encounter a surprise or frustration in JavaScript, your response is to add it to the blacklist, as some are accustomed to doing, you soon will be relegated to a hollow shell of the richness of JavaScript.
+Phần này hay được gọi là "phần hay" của ngôn ngữ, nhưng tôi mong bạn, đọc giả thân mến, hãy coi nó là "phần dễ", "phần đơn giản" hay thậm chí là "phần chưa hoàn thiện".
 
-While this subset has been famously dubbed "The Good Parts", I would implore you, dear reader, to instead consider it the "The Easy Parts", "The Safe Parts", or even "The Incomplete Parts".
-
-This *You Don't Know JavaScript* book series offers a contrary challenge: learn and deeply understand *all* of JavaScript, even and especially "The Tough Parts".
+Bộ sách "Bạn đếch biết JavaScript" sẽ cho bạn một thử thách ngược lại: học và hiểu thật kỹ *toàn bộ* về JavaScript, và đặc biệt là phần "khó nhằn" của ngôn ngữ này.
 
 Here, we address head on the tendency of JS developers to learn "just enough" to get by, without ever forcing themselves to learn exactly how and why the language behaves the way it does. Furthermore, we eschew the common advice to *retreat* when the road gets rough.
 
