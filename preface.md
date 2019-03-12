@@ -25,7 +25,7 @@ Phần này hay được gọi là "phần hay" của ngôn ngữ, nhưng tôi m
 
 Bộ sách "Bạn đếch biết JavaScript" sẽ cho bạn một thử thách ngược lại: học và hiểu thật kỹ *toàn bộ* về JavaScript, và đặc biệt là phần "khó nhằn" của ngôn ngữ này.
 
-Here, we address head on the tendency of JS developers to learn "just enough" to get by, without ever forcing themselves to learn exactly how and why the language behaves the way it does. Furthermore, we eschew the common advice to *retreat* when the road gets rough.
+Ở đây, chúng ta đề cập đến một xu hướng của các lập trình viên JS chỉ học vừa đủ để làm cho xong việc, mà không bao giờ tự bắt mình phải học hiểu chính xác tại sao và làm thế nào mà JS lại chạy như vậy. Xa hơn nữa, chúng ta tránh bỏ những lời khuyên thường gặp để học cách phản ứng lại khi con đường của chúng ta đi trở nên không dễ dàng.
 
 I am not content, nor should you be, at stopping once something *just works*, and not really knowing *why*. I gently challenge you to journey down that bumpy "road less traveled" and embrace all that JavaScript is and can do. With that knowledge, no technique, no framework, no popular buzzword acronym of the week, will be beyond your understanding.
 
