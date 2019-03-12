@@ -15,8 +15,10 @@ Sẽ không thể là hoàn thiện nếu bạn chỉ đi copy và paste các đ
 
 We don’t want to settle for anything less -- this is, after all, our craft.
 
-The more you are exposed to JavaScript, the clearer it becomes. Words like closures, objects, and methods might seem out of reach to you now, but this book will help those terms come into clarity. I want you to keep those two feelings of before and after you learn something in mind as you begin this book. It might seem daunting, but you’ve picked up this book because you are starting an awesome journey to hone your knowledge. *Up & Going* is the start of our path to understanding programming. Enjoy the lightbulb moments!
+Càng tìm hiểu về JavaScript, bạn sẽ ngày càng thấy nó trở nên rõ ràng hơn. Những từ như "closures", "object" và "method" có thể đang không nằm trong vốn từ vựng và hiểu biết của bạn, nhưng cuốn sách này sẽ giúp những thuật ngữ này đi vào đầu bạn một cách rành mạch nhất. Khi bạn đọc cuốn sách này, hãy để cho tâm trí của bạn cảm nhận được hai cảm giác ở hai thời điểm trước và sau khi bạn học được điều gì đó mới mẻ. Cảm giác đó có thể đáng sợ, nhưng bạn đã chọn việc cầm cuốn sách này lên, bởi vì bạn đã bắt đầu cho một chuyến phiêu lưu đầy thú vị để tôi luyện thêm cho hiểu biết của mình. Sách "Lên và quẩy" là đoạn khởi đầu cho con đường hiểu biết về lập trình của bạn.
+
+Hãy cảm nhận khoảnh khắc tuyệt diệu đó.
 
 Jenn Lukas<br>
 [jennlukas.com](http://jennlukas.com/), [@jennlukas](https://twitter.com/jennlukas)<br>
-Front-end consultant
+Chuyên gia tư vấn Front-end
