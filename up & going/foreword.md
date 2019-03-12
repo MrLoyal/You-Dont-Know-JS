@@ -9,7 +9,7 @@ Bây giờ, bạn hãy quay lại thời điểm trước đó một chút, trư
 
 Tôi đã từng dạy rất nhiều lớp cho người mới học lập trình. Các học viên của tôi thường tự học về các chủ đề như HTML và JavaScript bằng cách đọc các blogs, copy & paste các đoạn code, nhưng họ vẫn chưa thể thực sự làm chủ được thứ mà họ muốn học để có thể tạo ra các sản phẩm như ý. Và vì họ chưa thực sự nắm được kiến thức trong các chủ đề đó, họ không thể viết được code xịn hoặc tự debug code của mình, họ không thực sự hiểu điều gì đang xảy ra.
 
-  
+Tôi luôn tin tưởng vào việc dạy các lớp học của mình theo cách đúng đắn, nghĩa là tôi dạy các tiêu chuẩn về web, semantic markup, cách viết code sáng sủa, và nhiều thứ khác nữa. Tôi đi vào từng chủ đề một cách kỹ lưỡng để giải thích tại sao và như thế nào, chứ không phải chỉ đơn giản là quăng cho học viên một đoạn code để copy và paste. Khi bạn bỏ công bỏ sức để hiểu về code của mình, bạn tạo ra những thứ tốt hơn và bản thân bạn trở thành phiên bản hoàn hảo hơn. Code không chỉ còn là việc kiếm tiền nữa, nó trở thành sự nghiệp của bạn.  
   
 
 I always believe in teaching my classes the proper way, meaning I teach web standards, semantic markup, well-commented code, and other best practices. I cover the subject in a thorough manner to explain the hows and whys, without just tossing out code to copy and paste. When you strive to comprehend your code, you create better work and become better at what you do. The code isn’t just your *job* anymore, it’s your *craft*. This is why I love *Up & Going*. Kyle takes us on a deep dive through syntax and terminology to give a great introduction to JavaScript without cutting corners. This book doesn’t skim over the surface, but really allows us to genuinely understand the concepts we will be writing.
