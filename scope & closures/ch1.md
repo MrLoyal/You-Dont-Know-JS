@@ -7,11 +7,11 @@ Nếu không có khả năng đó, chương trình chỉ có thể thực hiện
 
 Nhưng việc đặt các biến vào chương trình lại làm nảy sinh một câu hỏi rất thú vị mà chúng ta sẽ đi tìm câu trả lời: các biến này *tồn tại* ở đâu? Hay nói một cách khác, chúng được lưu trữ ở đâu, và quan trọng nhât là làm thế nào để chương trình tìm được các biến đó khi cần?
 
-These questions speak to the need for a well-defined set of rules for storing variables in some location, and for finding those variables at a later time. We'll call that set of rules: *Scope*.
+Những câu hỏi này nói lên sự cần thiết về một bộ quy tắc chặt chẽ dùng cho việc lưu trữ các biến ở một vị trí nào đó và sau đó là cho việc tìm kiếm các biến này. Chúng ta gọi bộ quy tắc đó là *Scope*.
 
-But, where and how do these *Scope* rules get set?
+Nhưng những quy luật *Scope* này được thiết lập ở đâu và khi nào?
 
-## Compiler Theory
+## Lý thuyết về trình biên dịch 
 
 It may be self-evident, or it may be surprising, depending on your level of interaction with various languages, but despite the fact that JavaScript falls under the general category of "dynamic" or "interpreted" languages, it is in fact a compiled language. It is *not* compiled well in advance, as are many traditionally-compiled languages, nor are the results of compilation portable among various distributed systems.
 
