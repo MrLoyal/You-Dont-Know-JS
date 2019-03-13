@@ -35,15 +35,15 @@ Trong các bước của ngôn ngữ lập trình biên dịch truyền thống,
 
     **Ghi chú:** Chi tiết về việc làm thế nào mà máy tính có thể quản lý các tài nguyên hệ thống sẽ nằm ngoài nội dung mà chúng ta sẽ tìm hiểu. Vì vậy chúng ta chấp nhận rằng máy tính sẽ có khả năng tạo và lưu trữ các biến khi cần.
 
-The JavaScript engine is vastly more complex than *just* those three steps, as are most other language compilers. For instance, in the process of parsing and code-generation, there are certainly steps to optimize the performance of the execution, including collapsing redundant elements, etc.
+Bộ máy JavaScript và các trình biên dịch của các ngôn ngữ lập trình khác trong thực tế hoạt động phức tạp hơn 3 bước này rất nhiều. Ví dụ, quá trình phân tích và sinh mã còn có thêm việc tối ưu hóa mã cho việc thực thi hiệu quả hơn, loại bỏ các thành phần bị dư thừa, v.v...
 
-So, I'm painting only with broad strokes here. But I think you'll see shortly why *these* details we *do* cover, even at a high level, are relevant.
+Vì thế, tôi chỉ đang vẽ bức tranh bằng những nét phác họa. Nhưng tôi nghĩ rằng bạn sẽ sớm nhận ra tại sao những chi tiết mà chúng ta đang xem xét, dù rằng ở mức độ sơ lược, cũng sẽ có liên quan.
 
-For one thing, JavaScript engines don't get the luxury (like other language compilers) of having plenty of time to optimize, because JavaScript compilation doesn't happen in a build step ahead of time, as with other languages.
+Vì một điều, bộ thực thi JavaScript không có được một sự xa xỉ như các trình biên dịch khác, đó là khoảng thời gian đủ dài, dùng để tối ưu hóa mã chương trình, vì việc biên dịch của JavaScript không được thực hiện trong 1 quá trình build từ trước như các ngôn ngữ khác.
 
-For JavaScript, the compilation that occurs happens, in many cases, mere microseconds (or less!) before the code is executed. To ensure the fastest performance, JS engines use all kinds of tricks (like JITs, which lazy compile and even hot re-compile, etc.) which are well beyond the "scope" of our discussion here.
+Đối với JavaScript, trong đa số trường hợp, việc biên dịch chỉ xảy ra trong một vài micro giây (hoặc ít hơn) ngay trước khi mã đó được thực thi. Để đảm bảo việc này được diễn ra nhanh nhất, máy thực thi JavaScript phải sử dụng đến khá nhiều kĩ xảo (như JITs: trì hoãn việc dịch hoặc thậm chí áp dụng "dịch nóng", v.v...), những kĩ xảo này cũng nằm xa ngoài phạm vi mà chúng ta sẽ tìm hiểu trong cuốn sách này.
 
-Let's just say, for simplicity's sake, that any snippet of JavaScript has to be compiled before (usually *right* before!) it's executed. So, the JS compiler will take the program `var a = 2;` and compile it *first*, and then be ready to execute it, usually right away.
+Chúng ta hãy chỉ công nhận với nhau rằng, bất kì đoạn code JavaScript nào cũng được biên dịch trước khi (thường là *ngay* trước khi) nó được thực thi. Nên bộ biên dịch JS sẽ nhận vào đoạn code `var a = 2;` rồi dịch, và tạo ra các mã có thể thực thi ngay sau đó.
 
 ## Understanding Scope
 
