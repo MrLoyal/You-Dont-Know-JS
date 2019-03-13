@@ -18,13 +18,11 @@ pNó không được biên dịch kỹ ngay giống như nhiều ngôn ngữ bi�
 
 Tuy nhiên, bộ máy JavaScript thực hiện rất nhiều bước tương tự với các ngôn ngữ biên dịch khác theo những cách còn phức tạp hơn cả những điều mà ta thường thể nhận thấy.
 
-Trong các bước của ngôn ngữ lập trình biên dịch truyền thống, một đoạn mã nguồn, tức là chương trình của bạn, sẽ đi qua 3 bước tiêu chuẩn sau,
-In traditional compiled-language process, a chunk of source code, your program, will undergo typically three steps *before* it is executed, roughly called "compilation":
+Trong các bước của ngôn ngữ lập trình biên dịch truyền thống, một đoạn mã nguồn, tức là chương trình của bạn, sẽ đi qua 3 bước tiêu chuẩn như sau trước khi chúng được thực thi, thường được gọi là "quá trình biên dịch":
 
-1. **Tokenizing/Lexing:** breaking up a string of characters into meaningful (to the language) chunks, called tokens. For instance, consider the program: `var a = 2;`. This program would likely be broken up into the following tokens: `var`, `a`, `=`, `2`, and `;`. Whitespace may or may not be persisted as a token, depending on whether it's meaningful or not.
-
-    **Note:** The difference between tokenizing and lexing is subtle and academic, but it centers on whether or not these tokens are identified in a *stateless* or *stateful* way. Put simply, if the tokenizer were to invoke stateful parsing rules to figure out whether `a` should be considered a distinct token or just part of another token, *that* would be **lexing**.
-
+1. **Phân tích từ tố và từ vựng:** chia nhỏ chuỗi các kí tự thành các đoạn có nghĩa (đối với ngôn ngữ lập trình đó), được gọi là các từ tố (token). Ví dụ cụ thể, hãy xem đoạn chương trình: `var a = 2;`. Đoạn chương trình này sẽ được chia nhỏ thành các từ tố sau: `var`, `a`, `=`, `2` và `;`. Các khoảng trắng có thể được coi là các token hoặc không tùy theo trong ngôn ngữ đó, khoảng trắng đó có nghĩa hay không.
+    **Ghi chú:** Sự khác nhau giữa phân tích từ tố và phân tích từ vựng mang tính chất hàn lâm, nhưng chủ yếu tập trung vào việc các token này *có trạng thái* hay *không có trạng thái*. Hiểu một cách đơn giản, nếu bộ phân tích từ vựng gọi bộ quy tắc có trạng thái ra để xem xét xem `a` có phải là một token độc lập hay chỉ là một phần của một token khác, thì đó được gọi là **lexing**.
+    
 2. **Parsing:** taking a stream (array) of tokens and turning it into a tree of nested elements, which collectively represent the grammatical structure of the program. This tree is called an "AST" (<b>A</b>bstract <b>S</b>yntax <b>T</b>ree).
 
     The tree for `var a = 2;` might start with a top-level node called `VariableDeclaration`, with a child node called `Identifier` (whose value is `a`), and another child called `AssignmentExpression` which itself has a child called `NumericLiteral` (whose value is `2`).
