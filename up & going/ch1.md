@@ -5,9 +5,10 @@ Chào mừng bạn đến với tuyển tập sách *Bạn đếch biết JS* (*
 
 *Lên & Chạy* là tập sách giới thiệu một số khái niệm về lập trình, tất nhiên chúng ta sẽ nói về những thứ này theo cách gắn liền với JavaScript (hay được gọi tắt là JS), và chuyện làm thế nào để bạn tiếp xúc tiếp với những tập còn lại trong bộ sách này. Đặt biệt là nếu bạn là người vừa mới làm quen với lập trình và/hoặc với JavaScript, tập sách này sẽ là nơi để bạn tìm hiểu nhanh về những điều bạn cần phải biết để có thể *lên & chạy*
 
-This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.
+Cuốn sách này bắt đầu với việc giải thích các khái niệm cơ bản của lập trình theo cách đơn giản nhất. Sách được viết với giả định rằng bạn có rất ít hoặc chưa từng có kinh nghiệm về lập trình, và đang tìm kiếm một cuốn sách có thể hướng dẫn bạn bắt đầu con đường lập trình thông qua lăng kính của JavaScript.
 
-Chapter 1 should be approached as a quick overview of the things you'll want to learn more about and practice to get *into programming*. There are also many other fantastic programming introduction resources that can help you dig into these topics further, and I encourage you to learn from them in addition to this chapter.
+Chương 1 này sẽ là phần tổng quan về những thứ bạn sẽ học và một số bài thực hành để bạn bắt đầu *đi vào thế giới lập trình*. Ngoài cuốn sách này ra, còn có rất nhiều tài liệu tuyệt vời khác cũng có thể giúp bạn hiểu hơn về những đề tài này, và tôi khuyến khích bạn nên tìm hiểu thêm các tài liệu đó để bổ sung cho chương sách này.
+
 
 Once you feel comfortable with general programming basics, Chapter 2 will help guide you to a familiarity with JavaScript's flavor of programming. Chapter 2 introduces what JavaScript is about, but again, it's not a comprehensive guide -- that's what the rest of the *YDKJS* books are for!
 
