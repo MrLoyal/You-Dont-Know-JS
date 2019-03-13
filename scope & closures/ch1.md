@@ -45,21 +45,21 @@ Vì một điều, bộ thực thi JavaScript không có được một sự xa 
 
 Chúng ta hãy chỉ công nhận với nhau rằng, bất kì đoạn code JavaScript nào cũng được biên dịch trước khi (thường là *ngay* trước khi) nó được thực thi. Nên bộ biên dịch JS sẽ nhận vào đoạn code `var a = 2;` rồi dịch, và tạo ra các mã có thể thực thi ngay sau đó.
 
-## Understanding Scope
+## Tìm hiểu về Scope (phạm vi)
 
-The way we will approach learning about scope is to think of the process in terms of a conversation. But, *who* is having the conversation?
+Cách tốt nhất để học về scope là tưởng tượng về quá trình này như một đoạn hội thoại. Nhưng *ai* đang tham gia vào hội thoại này?
 
-### The Cast
+### Các vai diễn
 
-Let's meet the cast of characters that interact to process the program `var a = 2;`, so we understand their conversations that we'll listen in on shortly:
+Chúng ta hãy làm quen với các vai diễn của các nhân vật sẽ trao đổi với nhau trong quá trình xử lý đoạn chương trình `var a = 2;`, như thế chúng ta sẽ hiểu đoạn hội thoại mà lát nữa chúng ta sẽ theo dõi:
 
-1. *Engine*: responsible for start-to-finish compilation and execution of our JavaScript program.
+1. *Bộ máy (engine):* chịu trách nhiệm từ đầu đến cuối cho việc biên dịch và thực thi chương trình.
 
-2. *Compiler*: one of *Engine*'s friends; handles all the dirty work of parsing and code-generation (see previous section).
+2. *Trình biên dịch (complier):* là một người bạn của *Engine*, xử lý tất cả các công việc phân tích và sinh mã (như đoạn trên).
 
-3. *Scope*: another friend of *Engine*; collects and maintains a look-up list of all the declared identifiers (variables), and enforces a strict set of rules as to how these are accessible to currently executing code.
+3. *Scope*: là một người bạn khác của *Engine*, sưu tập và lưu giữ một danh sách tra cứu về tất cả các tên (biến) đã được khai báo, và nó đảm bảo việc thực thi về một bộ luật quy định về cách truy cập vào các biến này từ ngữ cảnh của đoạn code đang được thực thi.
 
-For you to *fully understand* how JavaScript works, you need to begin to *think* like *Engine* (and friends) think, ask the questions they ask, and answer those questions the same.
+Để bạn có thể *hiểu đầy đủ* về cách mà JS hoạt động, bạn cần phải *suy nghĩ* theo cách mà *Engine* (và những người bạn) nghĩ, phải hỏi câu hỏi như chúng hỏi, trả lời như chúng trả lời.
 
 ### Back & Forth
 
