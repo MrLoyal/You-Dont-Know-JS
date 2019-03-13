@@ -29,11 +29,11 @@ Trong các bước của ngôn ngữ lập trình biên dịch truyền thống,
 
     Cây cho `var a = 2;` bắt đầu bằng một node cấp cao nhất được gọi là `Khai báo biến`, với một node con tên là `Định danh` (có giá trị là `a`), và một con khác là `Biểu thức gán`, bản thân con này lại có một con khác gọi là `Nguyên liệu kiểu số` (giá trị là `2`).
 
-3. **Code-Generation:** the process of taking an AST and turning it into executable code. This part varies greatly depending on the language, the platform it's targeting, etc.
+3. **Quá trình sinh mã:** là quá trình lấy một AST và chuyển nó thành chương trình có thể thực thi được. Phần này rất khác nhau và tùy thuộc vào ngôn ngữ lập trình, nền tảng môi trường mà chương trình sẽ được thực thi, v.v...
 
-    So, rather than get mired in details, we'll just handwave and say that there's a way to take our above described AST for `var a = 2;` and turn it into a set of machine instructions to actually *create* a variable called `a` (including reserving memory, etc.), and then store a value into `a`.
+    Cho nên, thay vì sa lầy vào chi tiết, chúng ta sẽ chỉ lướt qua và ngầm định rằng có một cách nào đó để biến cây AST của đoạn `var a = 2;` thành mã máy để có thể thực sự *tạo ra* được một biến tên là `a` (bao gồm cả việc đảo bộ nhớ, v.v...), và sau đó là lưu 1 giá trị vào biến `a` đó.
 
-    **Note:** The details of how the engine manages system resources are deeper than we will dig, so we'll just take it for granted that the engine is able to create and store variables as needed.
+    **Ghi chú:** Chi tiết về việc làm thế nào mà máy tính có thể quản lý các tài nguyên hệ thống sẽ nằm ngoài nội dung mà chúng ta sẽ tìm hiểu. Vì vậy chúng ta chấp nhận rằng máy tính sẽ có khả năng tạo và lưu trữ các biến khi cần.
 
 The JavaScript engine is vastly more complex than *just* those three steps, as are most other language compilers. For instance, in the process of parsing and code-generation, there are certainly steps to optimize the performance of the execution, including collapsing redundant elements, etc.
 
