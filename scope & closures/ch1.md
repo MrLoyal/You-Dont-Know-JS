@@ -1,7 +1,7 @@
-# You Don't Know JS: Scope & Closures
-# Chapter 1: What is Scope?
+# Bạn đếch biết JS: Scope & Closures
+# Chương 1: Scope (phạm vi) là gì?
 
-One of the most fundamental paradigms of nearly all programming languages is the ability to store values in variables, and later retrieve or modify those values. In fact, the ability to store values and pull values out of variables is what gives a program *state*.
+Có một dạng chung cơ bản nhất của hầu hết tất cả ngôn ngữ lập trình đó là khả năng lưu trữ giá trị vào các biến, và sau đó là lấy ra hoặc sửa đổi các giá tri này. Trên thực tế, khả năng lưu trữ và lấy ra các giá trị từ các biến chính là thứ làm cho chương trình có được các *trạng thái*.
 
 Without such a concept, a program could perform some tasks, but they would be extremely limited and not terribly interesting.
 
