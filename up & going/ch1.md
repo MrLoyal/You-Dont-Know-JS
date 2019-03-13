@@ -9,10 +9,9 @@ Cuốn sách này bắt đầu với việc giải thích các khái niệm cơ 
 
 Chương 1 này sẽ là phần tổng quan về những thứ bạn sẽ học và một số bài thực hành để bạn bắt đầu *đi vào thế giới lập trình*. Ngoài cuốn sách này ra, còn có rất nhiều tài liệu tuyệt vời khác cũng có thể giúp bạn hiểu hơn về những đề tài này, và tôi khuyến khích bạn nên tìm hiểu thêm các tài liệu đó để bổ sung cho chương sách này.
 
+Khi bạn đã quen với lập trình cơ bản, Chương 2 sẽ giúp bạn làm quen với hương vị của JavaScript. Chương 2 sẽ giới thiệu cho bạn biết JavaScript là gì, nhưng xin hãy nhớ, đó chỉ là phần giới thiệu, còn nếu bạn muốn xem hướng dẫn đầy đủ thì bạn phải tìm hiểu cả phần còn lại của bộ sách này.
 
-Once you feel comfortable with general programming basics, Chapter 2 will help guide you to a familiarity with JavaScript's flavor of programming. Chapter 2 introduces what JavaScript is about, but again, it's not a comprehensive guide -- that's what the rest of the *YDKJS* books are for!
-
-If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
+Nếu bạn đã tương đối quen với JavaScript, bạn có thể vào chương 3 thử xem về những thứ mà bạn sẽ được học trong bộ sách này, rồi cứ thế nhảy vào học thôi!
 
 ## Code
 
