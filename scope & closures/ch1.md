@@ -13,6 +13,8 @@ Nhưng những quy luật *Scope* này được thiết lập ở đâu và khi 
 
 ## Lý thuyết về trình biên dịch 
 
+Tuỳ thuộc vào mức độ quen thuộc của bạn với các ngôn ngữ lập trình, bạn có thể cảm thấy hiển nhiên hoặc ngạc nhiên về điều này: mặc dù được xếp vào nhóm ngôn ngữ "động" hay "thông dịch" nhưng trên thực tế, JavaScript lại là một ngôn ngữ biên dịch.
+pNó không được biên dịch kỹ ngay giống như nhiều ngôn ngữ biên dịch truyền thống, cũng không p
 It may be self-evident, or it may be surprising, depending on your level of interaction with various languages, but despite the fact that JavaScript falls under the general category of "dynamic" or "interpreted" languages, it is in fact a compiled language. It is *not* compiled well in advance, as are many traditionally-compiled languages, nor are the results of compilation portable among various distributed systems.
 
 But, nevertheless, the JavaScript engine performs many of the same steps, albeit in more sophisticated ways than we may commonly be aware, of any traditional language-compiler.
