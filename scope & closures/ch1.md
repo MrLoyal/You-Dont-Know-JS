@@ -21,11 +21,13 @@ Tuy nhiên, bộ máy JavaScript thực hiện rất nhiều bước tương t�
 Trong các bước của ngôn ngữ lập trình biên dịch truyền thống, một đoạn mã nguồn, tức là chương trình của bạn, sẽ đi qua 3 bước tiêu chuẩn như sau trước khi chúng được thực thi, thường được gọi là "quá trình biên dịch":
 
 1. **Phân tích từ tố và từ vựng:** chia nhỏ chuỗi các kí tự thành các đoạn có nghĩa (đối với ngôn ngữ lập trình đó), được gọi là các từ tố (token). Ví dụ cụ thể, hãy xem đoạn chương trình: `var a = 2;`. Đoạn chương trình này sẽ được chia nhỏ thành các từ tố sau: `var`, `a`, `=`, `2` và `;`. Các khoảng trắng có thể được coi là các token hoặc không tùy theo trong ngôn ngữ đó, khoảng trắng đó có nghĩa hay không.
+
     **Ghi chú:** Sự khác nhau giữa phân tích từ tố và phân tích từ vựng mang tính chất hàn lâm, nhưng chủ yếu tập trung vào việc các token này *có trạng thái* hay *không có trạng thái*. Hiểu một cách đơn giản, nếu bộ phân tích từ vựng gọi bộ quy tắc có trạng thái ra để xem xét xem `a` có phải là một token độc lập hay chỉ là một phần của một token khác, thì đó được gọi là **lexing**.
     
-2. **Parsing:** taking a stream (array) of tokens and turning it into a tree of nested elements, which collectively represent the grammatical structure of the program. This tree is called an "AST" (<b>A</b>bstract <b>S</b>yntax <b>T</b>ree).
+2. **Phân tích:** lấy một chuỗi (một mảng) các token và chuyển chúng thành mô hình cây, cây này biểu diễn cho cấu trúc ngữ pháp cho chương trình. Cây này được gọi là "AST" (<b>A</b>bstract <b>S</b>yntax <b>T</b>ree - Cây ngữ pháp trừu tượng).
 
-    The tree for `var a = 2;` might start with a top-level node called `VariableDeclaration`, with a child node called `Identifier` (whose value is `a`), and another child called `AssignmentExpression` which itself has a child called `NumericLiteral` (whose value is `2`).
+
+    Cây cho `var a = 2;` bắt đầu bằng một node cấp cao nhất được gọi là `Khai báo biến`, với một node con tên là `Định danh` (có giá trị là `a`), và một con khác là `Biểu thức gán`, bản thân con này lại có một con khác gọi là `Nguyên liệu kiểu số` (giá trị là `2`).
 
 3. **Code-Generation:** the process of taking an AST and turning it into executable code. This part varies greatly depending on the language, the platform it's targeting, etc.
 
