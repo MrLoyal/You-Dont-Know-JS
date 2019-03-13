@@ -3,9 +3,9 @@
 
 Có một dạng chung cơ bản nhất của hầu hết tất cả ngôn ngữ lập trình đó là khả năng lưu trữ giá trị vào các biến, và sau đó là lấy ra hoặc sửa đổi các giá tri này. Trên thực tế, khả năng lưu trữ và lấy ra các giá trị từ các biến chính là thứ làm cho chương trình có được các *trạng thái*.
 
-Without such a concept, a program could perform some tasks, but they would be extremely limited and not terribly interesting.
+Nếu không có khả năng đó, chương trình chỉ có thể thực hiện được một vài tác vụ nhưng sẽ bị giới hạn rất nhiều và không có gì thú vị cả.
 
-But the inclusion of variables into our program begets the most interesting questions we will now address: where do those variables *live*? In other words, where are they stored? And, most importantly, how does our program find them when it needs them?
+Nhưng việc đặt các biến vào chương trình lại làm nảy sinh một câu hỏi rất thú vị mà chúng ta sẽ đi tìm câu trả lời: các biến này *tồn tại* ở đâu? Hay nói một cách khác, chúng được lưu trữ ở đâu, và quan trọng nhât là làm thế nào để chương trình tìm được các biến đó khi cần?
 
 These questions speak to the need for a well-defined set of rules for storing variables in some location, and for finding those variables at a later time. We'll call that set of rules: *Scope*.
 
