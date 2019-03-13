@@ -13,6 +13,6 @@
 * [Lời nói đầu](foreword.md) (viết bởi [Jenn Lukas](http://jennlukas.com))
 * [Lời tựa](../preface.md)
 * [Chương 1: Vào thế giới lập trình](ch1.md)
-* [Chapter 2: Đi vào JavaScript](ch2.md)
-* [Chapter 3: Làm quen với BĐBJS](ch3.md)
+* [Chương 2: Đi vào JavaScript](ch2.md)
+* [Chương 3: Làm quen với BĐBJS](ch3.md)
 * [Phụ lục A: Cảm ơn!](apA.md)
