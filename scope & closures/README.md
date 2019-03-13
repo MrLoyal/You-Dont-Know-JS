@@ -1,19 +1,19 @@
-# You Don't Know JS: Scope & Closures
+# Bạn đếch biết JS: Scope & Closures
 
 <img src="cover.jpg" width="300">
 
 -----
 
-**[Purchase digital/print copy from O'Reilly](http://shop.oreilly.com/product/0636920026327.do)**
+**[Mua sách in hoặc ebook tại O'Reilly](http://shop.oreilly.com/product/0636920026327.do)**
 
 -----
 
-[Table of Contents](toc.md)
+[Mục lục](toc.md)
 
-* [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
-* [Preface](../preface.md)
-* [Chapter 1: What is Scope?](ch1.md)
-* [Chapter 2: Lexical Scope](ch2.md)
+* [Lời mở đầu](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (viết bởi [Shane Hudson](https://github.com/shanehudson))
+* [Giới thiệu](../preface.md)
+* [Chương 1: Scope là gì?](ch1.md)
+* [Chapter 2: Lexical Scope (Phạm vi từ vựng)](ch2.md)
 * [Chapter 3: Function vs. Block Scope](ch3.md)
 * [Chapter 4: Hoisting](ch4.md)
 * [Chapter 5: Scope Closures](ch5.md)
