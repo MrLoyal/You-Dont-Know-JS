@@ -1,9 +1,9 @@
-# You Don't Know JS: Up & Going
-# Chapter 1: Into Programming
+# Bạn đếch biết JS: Lên & Chạy
+# Chương 1: Đi vào thế giới lập trình 
 
-Welcome to the *You Don't Know JS* (*YDKJS*) series.
+Chào mừng bạn đến với tuyển tập sách *Bạn đếch biết JS* (*YDKJS*).
 
-*Up & Going* is an introduction to several basic concepts of programming -- of course we lean toward JavaScript (often abbreviated JS) specifically -- and how to approach and understand the rest of the titles in this series. Especially if you're just getting into programming and/or JavaScript, this book will briefly explore what you need to get *up and going*.
+*Lên & Chạy* là tập sách giới thiệu một số khái niệm về lập trình, tất nhiên chúng ta sẽ nói về những thứ này theo cách gắn liền với JavaScript (hay được gọi tắt là JS), và chuyện làm thế nào để bạn tiếp xúc tiếp với những tập còn lại trong bộ sách này. Đặt biệt là nếu bạn là người vừa mới làm quen với lập trình và/hoặc với JavaScript, tập sách này sẽ là nơi để bạn tìm hiểu nhanh về những điều bạn cần phải biết để có thể *lên & chạy*
 
 This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.
 
