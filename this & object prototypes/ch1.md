@@ -233,9 +233,9 @@ console.log( foo.count ); // 4
 
 **Instead of avoiding `this`, we embrace it.** We'll explain in a little bit *how* such techniques work much more completely, so don't worry if you're still a bit confused!
 
-### Its Scope
+### Lầm tưởng thứ 2: Scope của nó
 
-The next most common misconception about the meaning of `this` is that it somehow refers to the function's scope. It's a tricky question, because in one sense there is some truth, but in the other sense, it's quite misguided.
+Lầm tưởng phổ biến tiếp theo về ý nghĩa của `this` là nghĩ rằng nó trỏ đến scope của function. It's a tricky question, because in one sense there is some truth, but in the other sense, it's quite misguided.
 
 To be clear, `this` does not, in any way, refer to a function's **lexical scope**. It is true that internally, scope is kind of like an object with properties for each of the available identifiers. But the scope "object" is not accessible to JavaScript code. It's an inner part of the *Engine*'s implementation.
 
