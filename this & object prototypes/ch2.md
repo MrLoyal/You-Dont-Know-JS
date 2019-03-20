@@ -1,7 +1,7 @@
 # You Don't Know JS: *this* & Object Prototypes
 # Chapter 2: `this` All Makes Sense Now!
 
-In Chapter 1, we discarded various misconceptions about `this` and learned instead that `this` is a binding made for each function invocation, based entirely on its **call-site** (how the function is called).
+Trong chương 1, chúng ta đã tìm hiểu và loại bỏ các lầm tưởng về `this` và hiểu được rằng `this` là một cơ chế ràng buộc khi gọi hàm, và phụ thuộc hoàn toàn vào nơi gọi thực thi hàm đó (ngữ cảnh và cách thức mà hàm này được gọi).
 
 ## Call-site
 
